@@ -1,0 +1,10 @@
+{
+  "name": "ccusa-website-for-overseas-rep",
+  "version": "1.0.0",
+  "description": "Статичный лендинг CCUSA на русском",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "private": true
+}
